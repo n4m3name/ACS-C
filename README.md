@@ -1,4 +1,4 @@
-# acs-c
+# ACS-C
 Airline check-in system simulation using C
 
 [GitHub link](https://github.com/n4m3name/ACS-C)
