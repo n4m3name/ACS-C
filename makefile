@@ -1,6 +1,6 @@
 CC = gcc
 CFLAGS = -Wall -Werror -g -pthread
-TARGET = acs
+TARGET = ACS
 SRCS = acs.c
 OBJS = $(SRCS:.c=.o)
 RAND_GEN = inputGen.c

@@ -2,6 +2,7 @@
 #include <stdlib.h>
 #include <time.h>
 
+// Define time limits
 #define MAX_CUSTOMERS 50
 #define MAX_ARRIVAL_TIME 9
 #define MAX_SERVICE_TIME 99
